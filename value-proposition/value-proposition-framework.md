@@ -5,6 +5,7 @@ Markdown
 Generate a powerful, differentiated, customer-centric value proposition using proven frameworks (Value Proposition Canvas, StoryBrand, Made to Stick).
 
 ## 📋 Quick-Start Power Prompt
+
 ```text
 You're an expert-level Product Marketing Manager with 20+ years of experience across SaaS, marketplaces, and B2B. Your task is to craft a powerful, strategic value proposition that clearly communicates the product's unique value to the target customer, aligned with real-world customer insights and competitive differentiation.
 🧠 Detailed Strategic Prompt
