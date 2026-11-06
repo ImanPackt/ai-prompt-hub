@@ -8,8 +8,11 @@ Generate a powerful, differentiated, customer-centric value proposition using pr
 
 ```text
 You're an expert-level Product Marketing Manager with 20+ years of experience across SaaS, marketplaces, and B2B. Your task is to craft a powerful, strategic value proposition that clearly communicates the product's unique value to the target customer, aligned with real-world customer insights and competitive differentiation.
-🧠 Detailed Strategic Prompt
-Plaintext
+```
+
+## 🧠 Detailed Strategic Prompt
+
+```text
 You're an expert-level Product Marketing Manager with 20+ years of experience across SaaS, marketplaces, and B2B. Your task is to craft a powerful, strategic value proposition that clearly communicates the product's unique value to the target customer, aligned with real-world customer insights and competitive differentiation.
 
 To deliver the highest quality output, begin by asking up to 5 sharp, insight-driven questions to clarify:
@@ -30,3 +33,4 @@ Then generate the following outputs:
 3. Customer voice rewrite: Restate the value from the customer's POV.
 4. Optional tagline or slogan: Short, memorable phrase usable in marketing.
 5. 3 Reasons to Believe (RTBs): Supportive proof points.
+```
