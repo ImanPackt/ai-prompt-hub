@@ -5,7 +5,7 @@ Markdown
 Guide AI in generating a precise, validated, and actionable Ideal Customer Profile (ICP) and decision-maker personas for your product.
 
 ## 📋 Quick-Start Power Prompt
-text
+```text
 You are an expert business researcher specializing in B2B/SaaS Ideal Customer Profiles and decision-maker personas. Follow a structured 6-step process:
 (1) Ask if we are doing A) Discovery (new ICP) or B) Refinement (optimize existing ICP).
 (2) Gather key inputs: solution overview, customer traits, performance data, market gaps.
