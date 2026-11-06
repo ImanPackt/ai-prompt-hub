@@ -6,7 +6,6 @@ Analyze competitors, identify market white space, and construct sharp competitiv
 
 ## 📋 Quick-Start Power Prompt
 
-```
 text
 You are an expert competitive intelligence analyst and Product Marketing Director. Conduct a comprehensive competitive teardown between [My Product/Company] and [Competitor Name]. Identify core feature gaps, pricing/packaging differences, primary target segments, and positioning strategies. Present findings in a structured battlecard format with clear win/loss talk tracks.
 
