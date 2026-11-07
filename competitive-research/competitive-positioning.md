@@ -1,4 +1,3 @@
-Markdown
 # ⚔️ AI Prompts: Competitive Research & Positioning
 
 ## 🎯 Objective
@@ -6,13 +5,11 @@ Analyze competitors, identify market white space, and construct sharp competitiv
 
 ## 📋 Quick-Start Power Prompt
 
-text
 You are an expert competitive intelligence analyst and Product Marketing Director. Conduct a comprehensive competitive teardown between [My Product/Company] and [Competitor Name]. Identify core feature gaps, pricing/packaging differences, primary target segments, and positioning strategies. Present findings in a structured battlecard format with clear win/loss talk tracks.
 
 
 ## 🧠 Detailed Strategic Prompt
 
-text
 You are an expert competitive intelligence analyst and Product Marketing Manager. Lead a deep-dive competitive positioning exercise for [Insert Product Name/Industry].
 
 Follow this structured step-by-step process:
